@@ -1,7 +1,7 @@
-# CAI Lab Relational Database Implementation
+# DBS Lab Relational Database Implementation
 
 ## Project Overview
-This project models an academic management database designed to track students, courses, assignments, and submissions for the CAI Lab. It implements primary/foreign key relationships, cascading deletes, and complex multi-table SQL queries in **Oracle Live SQL**.
+This project models an academic management database designed to track students, courses, assignments, and submissions for the DBS Lab. It implements primary/foreign key relationships, cascading deletes, and complex multi-table SQL queries in **Oracle Live SQL**.
 
 ## Schema Structure
 The relational model consists of 4 tables:
